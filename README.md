@@ -1,2 +1,5 @@
 # ollama-modelfiles
-A place to create and catalog ollama model files for use with hugging face
+
+Ollama has a great registry of models you can add, but the hugging face library is 
+much larger.  However the templates might need to be tweaked to work properly.  So 
+here is my attempt at providing modelfiles that have been tweaked.
